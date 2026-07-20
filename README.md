@@ -1,16 +1,22 @@
-## Hi there 👋
+# こんにちは、竹内麻耶です 👋
 
-<!--
-**maya-t1818/maya-t1818** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+COACHTECH でフルスタックWeb開発を学習中のweb系エンジニア志望です。  
+ユーザ目線で考えてサービスを作ることに興味があります。  
+初めての業界で、自分の書いたコードでウェブが動くことに感動を覚えました。
 
-Here are some ideas to get you started:
+## 🛠️ 使える技術
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **バックエンド**: PHP / Laravel
+- **フロントエンド**: HTML5 / CSS / Blade
+- **データベース**: MySQL
+- **その他**: Docker / Git・GitHub
+
+## 📂 学習成果物
+
+COACHTECH 教材のハンズオンで作成したリポジトリです。
+
+
+## 🌱 これから挑戦したいこと
+
+
+## 📫 連絡先・リンク
