@@ -13,7 +13,7 @@ COACHTECH でフルスタックWeb開発を学習中のweb系エンジニア志�
 
 ## 📂 学習成果物
 
-COACHTECH 教材のハンズオンで作成したリポジトリです。 
+COACHTECH 教材のハンズオンで作成したリポジトリです。  
 - HTML&CSS基本  
 [self-introduction-practice](https://github.com/maya-t1818/self-introduction-practice)
 - PHP入門  
@@ -22,6 +22,7 @@ COACHTECH 教材のハンズオンで作成したリポジトリです。
 [php-oop-practice](https://github.com/maya-t1818/php-oop-practice)    
 [php-form-practice](https://github.com/maya-t1818/php-form-practice)    
 - Laravel基礎  
+[setup-app-practice](https://github.com/maya-t1818/setup-app-practice)   
 [profile-app-practice](https://github.com/maya-t1818/profile-app-practice)   
 [blade-app-practice](https://github.com/maya-t1818/blade-app-practice)  
 [database-app-practice](https://github.com/maya-t1818/database-app-practice)  
@@ -38,16 +39,12 @@ COACHTECH 教材のハンズオンで作成したリポジトリです。
 - Laravel*API  
 [api-setup-practice](https://github.com/maya-t1818/api-setup-practice)  
 [task-crud-practice](https://github.com/maya-t1818/task-crud-practice)  
-- Git*Github実践
+- Git*Github実践  
 [github-collab-practice](https://github.com/maya-t1818/github-collab-practice)  
 
-
-
- 
-   
-[setup-app-practice](https://github.com/maya-t1818/setup-app-practice)  
-
 ## 🌱 これから挑戦したいこと
-
+チーム開発に携わりたいです。  
+とにかくたくさん手を動かして実績を残したいです。
 
 ## 📫 連絡先・リンク
+- Email: take18181225@yahoo.co.jp
